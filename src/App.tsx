@@ -43,7 +43,7 @@ export default function App() {
     <Container maxWidth="sm">
       <Box sx={{ my: 4 }}>
         <Typography variant="h4" component="h1" gutterBottom>
-          Material UI Vite.js example in TypeScript
+          Material UI Vite.js example in asdasd TypeScript
         </Typography>
         <ProTip />
         <Copyright />
